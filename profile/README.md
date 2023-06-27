@@ -15,9 +15,9 @@ We build software that helps end-users achieve goals efficiently.
 
 Our continuous learning helps us continually improve. Our voracious desire for satisfaction means we yearn to satisfy our client's needs and wants. And our relentless spirit drives us to be consistent.
 
-We're a growing team of computer scientists, interface designers, and programmers to data scientists at the University of Zimbabwe. We believe in the power of open source and collaboration to help more people create robust software.
+We're a growing team of computer scientists, interface designers, and programmers to data scientists from the University of Zimbabwe. We believe in the power of open source and collaboration to help more people create robust software.
 
-We always seek like-minded University of Zimbabwe individuals to join our mission. If you share our passion for learning by doing and continuous self-development, contribute to our code, join our team, or become a customer.
+We always seek like-minded individuals from the University of Zimbabwe to join our mission. If you share our passion for learning by doing and continuous self-development, contribute to our code, join our team, or become a customer.
 
 
 
