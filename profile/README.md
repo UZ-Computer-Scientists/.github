@@ -1,5 +1,5 @@
 
-![image banner](https://github.com/zimcpa/.github/blob/main/banner-final-5.png)
+![image banner](https://github.com/zimcpa/.github/blob/main/profile/banner-final-5.png?raw=true)
 
 ---
 
