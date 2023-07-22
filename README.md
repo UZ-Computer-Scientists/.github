@@ -1,2 +1,2 @@
 # .github
-Profile repository ✅👍
+- Profile repository ✅👍
